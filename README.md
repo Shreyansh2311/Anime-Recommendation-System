@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-An end-to-end Machine Learning pipeline built on **Apache Spark (Databricks)** 
+An end-to-end Machine Learning pipeline built on **Apache Spark (Databricks)**
 processing **148M+ user-anime interaction records** across **20,237 anime titles** and **325K+ users**.
 
 ---
